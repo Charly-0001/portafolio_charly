@@ -1,5 +1,4 @@
 
-;
 //asignar un nombre y versión al cache
 const CACHE_NAME = 'v1_cache_Portafolio_JCBA',
   urlsToCache = [
@@ -8,7 +7,8 @@ const CACHE_NAME = 'v1_cache_Portafolio_JCBA',
     'https://fonts.gstatic.com',
     './estilos.css',
     './script.js',
-    './img/JuanCBA.jpg'
+    './img/img/ProgramadorFitness.png',
+    './img/img/favicon.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
@@ -22,6 +22,7 @@ self.addEventListener('install', e => {
       .catch(err => console.log('Falló registro de cache', err))
   )
 })
+
 
 //una vez que se instala el SW, se activa y busca los recursos para hacer que funcione sin conexión
 self.addEventListener('activate', e => {
