@@ -1,13 +1,18 @@
-
+;
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'v1_cache_Portafolio_JCBA',
+const CACHE_NAME = 'v1_cache_Portafolo_JCBA',
   urlsToCache = [
     './',
-    'https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap',
-    'https://fonts.gstatic.com',
-    './estilos.css',
+    'https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap',
+    'https://kit.fontawesome.com/2c36e9b7b1.js',
+    'https://use.fontawesome.com/releases/v5.0.7/css/all.css',
+    'https://fonts.googleapis.com/css?family=Raleway:400,700',
+    'https://cdn.jsdelivr.net/npm/web-animations-js@2.3.2/web-animations.min.js',
+    'https://cdn.jsdelivr.net/npm/muuri@0.9.5/dist/muuri.min.js',
+    './style.css',
     './script.js',
-    './img/JuanCBA.jpg'
+    './img/iconos/32.png',
+    './img/iconos/32.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
@@ -21,7 +26,6 @@ self.addEventListener('install', e => {
       .catch(err => console.log('Falló registro de cache', err))
   )
 })
-
 
 //una vez que se instala el SW, se activa y busca los recursos para hacer que funcione sin conexión
 self.addEventListener('activate', e => {

@@ -1,9 +1,9 @@
 {
-  "name": "Portafolio-Juan-Carlos-Blanco-Arriaga",
-  "short_name": "PortafolioJCBA",
-  "description": "Bienvenid@s a #PortafolioJCBA",
-  "background_color": "#024A86",
-  "theme_color": "#109DFA",
+  "name": "#Mi-Portafolio",
+  "short_name": "#JCBA",
+  "description": "Bienvenid@s al Portafolo de Juan Carlos Blanco",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
@@ -11,53 +11,53 @@
   "lang": "es-MX",
   "icons": [
     {
-      "src": "./img/iconos/1024.png",
-      "sizes": "1024x952",
+      "src": "./img/img/icon_1024.png",
+      "sizes": "1024x1024",
       "type": "image/png"
     },
     {
-      "src": "./img/iconos/512.png",
-      "sizes": "512x476",
+      "src": "./img/img/icon_512.png",
+      "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "./img/iconos/384.png",
-      "sizes": "384x357",
+      "src": "./img/img/icon_384.png",
+      "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "./img/iconos/256.png",
-      "sizes": "256x238",
+      "src": "./img/img/icon_256.png",
+      "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "./img/iconos/192.png",
-      "sizes": "192x178",
+      "src": "./img/img/icon_192.png",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./img/iconos/128.png",
-      "sizes": "128x118",
+      "src": "./img/img/icon_128.png",
+      "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "./img/iconos/96.png",
-      "sizes": "96x88",
+      "src": "./img/img/icon_96.png",
+      "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "./img/iconos/64.png",
-      "sizes": "64x59",
+      "src": "./img/img/icon_64.png",
+      "sizes": "64x64",
       "type": "image/png"
     },
     {
-      "src": "./img/iconos/32.png",
-      "sizes": "32x29",
+      "src": "./img/img/icon_32.png",
+      "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "./img/iconos/16.png",
-      "sizes": "16x14",
+      "src": "./img/img/favicon.png",
+      "sizes": "16x16",
       "type": "image/png"
     }
   ]
