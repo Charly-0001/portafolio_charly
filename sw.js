@@ -7,8 +7,7 @@ const CACHE_NAME = 'v1_cache_Portafolio_JCBA',
     'https://fonts.gstatic.com',
     './estilos.css',
     './script.js',
-    './img/img/ProgramadorFitness.png',
-    './img/img/favicon.png'
+    './img/JuanCBA.jpg'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
