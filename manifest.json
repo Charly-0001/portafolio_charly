@@ -11,53 +11,53 @@
   "lang": "es-MX",
   "icons": [
     {
-      "src": "./img/icon_1024.png",
-      "sizes": "1024x1024",
+      "src": "./img/iconos/1024.png",
+      "sizes": "1024x952",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_512.png",
-      "sizes": "512x512",
+      "src": "./img/iconos/512.png",
+      "sizes": "512x476",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_384.png",
-      "sizes": "384x384",
+      "src": "./img/iconos/384.png",
+      "sizes": "384x357",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_256.png",
-      "sizes": "256x256",
+      "src": "./img/iconos/256.png",
+      "sizes": "256x238",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_192.png",
-      "sizes": "192x192",
+      "src": "./img/iconos/192.png",
+      "sizes": "192x178",
       "type": "image/png"
     },
     {
-      "src": "./img/img/icon_128.png",
-      "sizes": "128x128",
+      "src": "./img/iconos/128.png",
+      "sizes": "128x118",
       "type": "image/png"
     },
     {
-      "src": "./img/img/icon_96.png",
-      "sizes": "96x96",
+      "src": "./img/iconos/96.png",
+      "sizes": "96x88",
       "type": "image/png"
     },
     {
-      "src": "./img/img/icon_64.png",
-      "sizes": "64x64",
+      "src": "./img/iconos/64.png",
+      "sizes": "64x59",
       "type": "image/png"
     },
     {
-      "src": "./img/img/icon_32.png",
-      "sizes": "32x32",
+      "src": "./img/iconos/32.png",
+      "sizes": "32x29",
       "type": "image/png"
     },
     {
-      "src": "./img/img/favicon.png",
-      "sizes": "16x16",
+      "src": "./img/iconos/16.png",
+      "sizes": "16x14",
       "type": "image/png"
     }
   ]
