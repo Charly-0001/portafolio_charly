@@ -1,0 +1,64 @@
+{
+  "name": "#Portafolio-Juan-Carlos-Blanco-Arriaga",
+  "short_name": "#PortafolioJCBA",
+  "description": "Bienvenid@s a #PortafolioJCBA",
+  "background_color": "#024A86",
+  "theme_color": "#109DFA",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/iconos/1024.png",
+      "sizes": "1024x952",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/iconos/512.png",
+      "sizes": "512x476",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/iconos/384.png",
+      "sizes": "384x357",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/iconos/256.png",
+      "sizes": "256x238",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/iconos/192.png",
+      "sizes": "192x178",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/iconos/128.png",
+      "sizes": "128x118",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/iconos/96.png",
+      "sizes": "96x88",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/iconos/64.png",
+      "sizes": "64x59",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/iconos/32.png",
+      "sizes": "32x29",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/iconos/16.png",
+      "sizes": "16x14",
+      "type": "image/png"
+    }
+  ]
+}
